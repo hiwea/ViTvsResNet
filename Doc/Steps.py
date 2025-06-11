@@ -1,7 +1,7 @@
 # ViT vs. ResNet for Image Classification - PyCharm Version
 
 """
-Step-by-Step Answers to Homework Questions (from the PDF)
+
 
 1. **Dataset Selection**
    - **Chosen Dataset:** CIFAR-100
@@ -42,6 +42,6 @@ Step-by-Step Answers to Homework Questions (from the PDF)
    - This script (PyCharm compatible)
    - Graph accuracy_comparison.png
    - Summary printed after training
-   - Can also generate a report file if needed
+
 
 """
